@@ -27,7 +27,7 @@ export default defineConfig({
 			},
 		},
 	},
-	base: './',
+	base: '/MusicCalculator/',
 
 
 	build: {
